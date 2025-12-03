@@ -1,0 +1,17 @@
+# metadata.yaml
+name: NexaGuard CMP
+description: |
+  Official Google Tag Manager template for NexaGuard CMP. 
+  Provides Consent Mode v2 default signals, regional consent configuration, 
+  developer_id support, and optional CMP loader integration.
+
+version: 1.0.0
+author: NexaGuard Inc.
+homepage: https://nexaguard.com
+documentation: https://developer.nexaguard.com
+license: Apache-2.0
+categories:
+  - Consent
+  - Privacy
+  - Utilities
+
