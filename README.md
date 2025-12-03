@@ -31,7 +31,7 @@ This template is intended for GTM users who want to deploy NexaGuard CMP without
 For implementation support and documentation, visit:
 
 👉 https://developer.nexaguard.com  
-👉 https://nexaguard.com/support
+👉 https://nexaguard.com/
 
 ---
 
