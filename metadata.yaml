@@ -11,8 +11,7 @@ description: |
 categories:
 - consent
 - privacy
-- utilities
 
 versions:
-- sha: e8dce2acc3d988e28dc124f023af3d35138a1841
+- sha: ac9fc44ec9aca47a5eb0d0dc67394b9f3ed4d129
   changeNotes: "Initial release"
