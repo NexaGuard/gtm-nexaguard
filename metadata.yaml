@@ -13,7 +13,7 @@ categories:
 - privacy
 
 versions:
-- sha: 4e7b06522aa1a6e53413f21a7cfc75d0b75693f9
-  changeNotes: "Audit fixes: moved to GTM consent APIs, locked developer_id, and added global + region override defaults."
+- sha: 7b478d4f3f76d3d145f03267445e1ab8c67c2291
+  changeNotes: "Audit fixes: GTM consent APIs, locked developer_id, global + region override defaults, and Gallery categories metadata."
 - sha: ac9fc44ec9aca47a5eb0d0dc67394b9f3ed4d129
   changeNotes: "Initial release"
