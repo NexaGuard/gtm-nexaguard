@@ -14,6 +14,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "NexaGuard CMP",
+  "categories": [
+    "UTILITY",
+    "TAG_MANAGEMENT"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
